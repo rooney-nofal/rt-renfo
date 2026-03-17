@@ -1,0 +1,29 @@
+Mission 1 - Le projet du stagiaire
+=================================
+
+Etat final :
+Projet nettoyé et restructuré.
+
+Elements supprimés :
+- .env
+- .cleanup_notes
+- assets/.secret_config
+- docs/README
+- docs/notes 2024.txt
+- src/OLD
+- tmp/cache
+
+Elements conservés :
+- deploy.sh
+- src/app
+- docs/readme.md
+- tmp/.gitkeep
+
+Normalisation effectuée :
+- logo.PNG -> logo.png
+
+Remarques :
+- Les secrets versionnés ont été supprimés
+- Les anciens backups inutiles ont été supprimés
+- Le cache temporaire a été supprimé
+- La documentation a été réécrite proprement
